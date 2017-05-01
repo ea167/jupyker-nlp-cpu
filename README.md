@@ -1,2 +1,2 @@
 # jupyker-nlp-cpu
-Same as jupyker repo, but for CPU without gpu support
+Same as jupyker-nlp repo, but for CPU without gpu support
